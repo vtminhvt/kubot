@@ -1,0 +1,51 @@
+KUBOT PROPRIETARY LICENSE
+Version 1.0 - Effective Date: May 17, 2026
+
+IMPORTANT: This repository contains proprietary information about kuBot trading system.
+Use, reproduction, or distribution of any content without explicit written permission is prohibited.
+
+═══════════════════════════════════════════════════════════════════════════════
+
+1. GRANT OF LIMITED LICENSE
+   This repository is provided for evaluation and partnership discussion purposes only.
+   You are granted a non-exclusive, non-transferable, revocable license to view 
+   the contents solely for assessing potential investment or business collaboration.
+
+2. RESTRICTIONS
+   You may NOT:
+   - Copy, modify, or create derivative works
+   - Distribute, publish, or disclose to third parties
+   - Reverse engineer or decompile any algorithms
+   - Use for commercial purposes without written agreement
+   - Integrate into competing trading systems
+
+3. INTELLECTUAL PROPERTY
+   All algorithms, methodologies, code patterns, and trading strategies described herein
+   are proprietary and constitute trade secrets. They remain the exclusive property of
+   kuBot Development Team.
+
+4. CONFIDENTIALITY
+   All information in this repository is confidential. Unauthorized disclosure will
+   result in legal action and damages.
+
+5. NO WARRANTY
+   This system is provided AS-IS. The developers make no warranties, express or implied,
+   regarding accuracy, performance, or suitability for any particular purpose.
+
+6. LIABILITY LIMITATION
+   In no event shall the developers be liable for any indirect, incidental, special,
+   or consequential damages arising from use or inability to use this system.
+
+7. TERMINATION
+   This license terminates immediately upon violation of any terms herein.
+
+8. GOVERNING LAW
+   This license is governed by applicable law. Any disputes shall be resolved
+   through binding arbitration.
+
+═══════════════════════════════════════════════════════════════════════════════
+
+For licensing inquiries, partnership opportunities, or commercial use:
+Contact: [Your Organization] | Email: [contact email]
+
+By viewing this repository, you acknowledge understanding and acceptance of all terms.
