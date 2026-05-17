@@ -254,3 +254,65 @@ We actively seek funding partners to accelerate kuBot's growth. If you're intere
 ---
 
 **© 2026 kuBot Development Team. All rights reserved.**
+
+---
+
+## Giới thiệu dự án & Hướng dẫn đầu tư (Bản thuần Việt)
+
+### Tổng quan dự án
+kuBot là hệ thống giao dịch tiền mã hóa tự động, ứng dụng trí tuệ nhân tạo và học tăng cường, tối ưu hóa lợi nhuận và kiểm soát rủi ro trên sàn KuCoin. Hệ thống đã được triển khai thực tế, vận hành ổn định, minh bạch và thích ứng nhanh với biến động thị trường.
+
+### Vấn đề thị trường
+Thị trường crypto biến động mạnh, các chiến lược truyền thống thường không thích nghi kịp với các giai đoạn thị trường (có xu hướng, đi ngang, biến động cao). kuBot giải quyết bằng công nghệ khai phá luật tự động, liên tục cập nhật chính sách giao dịch dựa trên dữ liệu thực tế.
+
+### Công nghệ nổi bật
+- Khai phá luật tự động từ log giao dịch, phát hiện điểm chuyển pha, sinh override chính sách phù hợp từng thời điểm.
+- Lớp tăng cường đa thuật toán: phát hiện chuyển pha (CUSUM), phát hiện bất thường, cập nhật ngưỡng Bayesian, bandit ngữ cảnh (UCB) học liên tục.
+- Kiểm soát chi phí và rủi ro: giới hạn mining, kiểm soát trôi tham số, bảo vệ vốn.
+- Giám sát minh bạch: log sự kiện, lưu vết override, báo cáo Discord thời gian thực.
+
+### Hiệu suất thực tế
+| Chỉ số         | DOGE-USDT | ETH-USDT | TRUMP-USDT |
+|---------------|-----------|----------|------------|
+| Sharpe        | 1.8       | 1.6      | 1.4        |
+| Max Drawdown  | -8.2%     | -12.1%   | -15.3%     |
+| Tỷ lệ thắng   | 58%       | 55%      | 52%        |
+| Lợi nhuận tháng| +3.2%    | +2.8%    | +2.1%      |
+
+### Hạ tầng triển khai thực tế
+- Hệ điều hành: Windows Server 2022 Standard (20348.5020)
+- CPU: Intel Xeon Silver 4510 @ 2.40GHz
+- RAM: 16GB (15.5GB khả dụng)
+- Runtime: Python 3.11 + .venv
+- API: KuCoin Futures + Spot (WebSocket + REST)
+- Số lượng cặp giao dịch: 3 (DOGE-USDT, ETH-USDT, TRUMP-USDT)
+- Uptime: 99.2% (trên 6 tháng)
+
+### Lộ trình phát triển
+- Q2-Q3/2026: Ổn định sản phẩm, tích hợp dashboard giám sát
+- Q3-Q4/2026: Thêm HMM, meta-labeling, tối ưu Bayesian
+- Q1/2027: Quản lý rủi ro danh mục, mở rộng đa sàn
+
+### Cơ hội đầu tư & hợp tác
+kuBot đang tìm kiếm đối tác đầu tư để mở rộng quy mô, phát triển sản phẩm và hợp tác chiến lược:
+- Seed round: $500k-$1M (10-33% cổ phần)
+- Series A: $3-5M (15-20% cổ phần)
+- Hợp tác vận hành quỹ, tích hợp sàn, white-label
+
+#### Quy trình nhận tài trợ
+1. Gửi inquiry qua [GitHub Issues](../../issues/new) (ưu tiên)
+2. Hoặc email: vtmsolver@gmail.com (tiêu đề: [kuBot] Đầu tư - [Tên tổ chức])
+3. Hoặc liên hệ Discord: vtmsolver
+4. Đội ngũ sẽ phản hồi trong 48h, ký NDA trước khi chia sẻ tài liệu kỹ thuật chi tiết
+
+#### Thông tin cần cung cấp:
+- Hồ sơ nhà đầu tư (quy mô quỹ, lĩnh vực, thời gian giải ngân)
+- Mục tiêu lợi nhuận, chiến lược hợp tác
+- Hồ sơ năng lực/track record
+
+### Kênh liên hệ
+- Email: vtmsolver@gmail.com
+- Discord: vtmsolver
+- GitHub Issues: [Gửi inquiry tại đây](../../issues/new)
+
+**© 2026 Đội ngũ phát triển kuBot. Bảo lưu mọi quyền.**
